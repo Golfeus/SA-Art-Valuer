@@ -1,0 +1,7 @@
+{
+  "name": "SA Art Valuator",
+  "description": "Professional art valuation tool that searches South African auction records to provide accurate market estimates for artworks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
